@@ -1,0 +1,8 @@
+name = "EFA_1.10.4 Hotfix 3"
+filename = "EFA_1.10.4 Hotfix 3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yiTthr0O/versions/FzKDA24C/EFA_1.10.4%20Hotfix%203.zip"
+hash-format = "sha512"
+hash = "820a2c37329ee78ece58ba2f334723271150d34b40e4a1db96f2c0af94f2d4fe7a74ae31abb7cfc7782f82ae4f6fc869d1788ac0e4d13440215f1b6db38a3d05"

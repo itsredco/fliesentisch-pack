@@ -1,0 +1,8 @@
+name = "message-display-time-1.2.1-neoforge+1.21"
+filename = "message-display-time-1.2.1-neoforge+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XBxmgWxC/versions/lyXqpeMz/message-display-time-1.2.1-neoforge%2B1.21.jar"
+hash-format = "sha512"
+hash = "71f8d444af414ddea6890e25beaefd04fab3e9dfb0711fd3f82a9fe1a9e86a69e2dc453f5396767bb74b505b9f3e95736197a3fde1e2e3bf2e52fe59ae581ee7"

@@ -1,0 +1,8 @@
+name = "Clarent_12110_1202+_v3"
+filename = "Clarent_12110_1202+_v3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/asD9taD4/versions/YSuQQv4R/Clarent_12110_1202%2B_v3.zip"
+hash-format = "sha512"
+hash = "9ed586c4d79bc390a7801a388f518a0cd4bcc3d79ecd80d24eb80695ba400c953d5d6f8ea71e942dd520a8a00caec58e897052b01a7e0df37a7166ad082b7472"

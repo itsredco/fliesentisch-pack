@@ -1,0 +1,8 @@
+name = "Excalibur Amendments 1.7"
+filename = "Excalibur Amendments 1.7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HCbyMlgs/versions/Z395YzdK/Excalibur%20Amendments%201.7.zip"
+hash-format = "sha512"
+hash = "3d2efd3e88f236c42eb4cfb4db7dc8099da2296bd44c80413d1a6795a458686a27766fad1ba6b06c99499969f4e151202202cae84e95b85c843a179a8447318b"

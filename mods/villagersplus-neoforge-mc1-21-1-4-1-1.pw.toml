@@ -1,0 +1,8 @@
+name = "villagersplus-neoforge-mc1.21.1-4.1.1"
+filename = "villagersplus-neoforge-mc1.21.1-4.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oHGMwNDR/versions/ABoPiboO/villagersplus-neoforge-mc1.21.1-4.1.1.jar"
+hash-format = "sha512"
+hash = "56339aa1694105b6e942c4826e36bbad11ac68a0228e84e9d6ba5b6fb585f37d34d030e2f022cb55a0d5eeb9b38cf6b9b5f9a65178d39b9148aa70692d49885b"

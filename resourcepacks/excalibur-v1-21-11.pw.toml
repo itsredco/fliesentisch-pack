@@ -1,0 +1,8 @@
+name = "Excalibur_V1.21.11"
+filename = "Excalibur_V1.21.11.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hJAzl1Bs/versions/RBbd6pNj/Excalibur_V1.21.11.zip"
+hash-format = "sha512"
+hash = "fa16b2bce0d5a3cb2a85a4f559f181c36460dfae08bebcb1e8412a3d7f7ebc30279a01815b4fe938d9992534be0b901b985941b46bc67e758d1089b0360a5084"

@@ -1,0 +1,13 @@
+name = "FliesentischMC"
+author = "Meister Klaudius"
+version = "1.0.9"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0a7eb5daf7a720b4dbc6d2362b8b4cefa26dc728aafc5adb606816dd15215b83"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"

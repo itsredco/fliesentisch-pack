@@ -1,0 +1,8 @@
+name = "amendments-1.21-2.2.1-neoforge"
+filename = "amendments-1.21-2.2.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6iTJugQR/versions/PSUS3poS/amendments-1.21-2.2.1-neoforge.jar"
+hash-format = "sha512"
+hash = "909f4bdd3d608471d08da3f9c404dbc1e10e05bc18a6632bb9ae1df8dae009a615ebcbfaba7b2e60d7176db5f1728539b7d8aaa73488ec7ade70eaefa6f556bb"

@@ -1,0 +1,8 @@
+name = "MoreBannerFeatures-2.4+1.21.1-neoforge"
+filename = "MoreBannerFeatures-2.4+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FOaR4sIZ/versions/hLlCQsqA/MoreBannerFeatures-2.4%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "75a0700fdc58ac680b96276442baea170de4920b0298cf20f7bbafe26f97c08b2f0e9f434c3413b1b2448bb638fa21871cb30b1aafd92e8bbf10739df0d5acdc"

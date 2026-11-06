@@ -1,0 +1,4 @@
+version:3955
+lang:de_de
+resourcePacks:["vanilla","mod_resources","moonlight:merged_pack","file/Excalibur_V1.21.11.zip","file/Clarent_12110_1202+_v3.zip","file/FarnersDelightExcaliburSupport_1.21.1.zip","file/Excalibur Waystones 1.1.zip","file/Excalibur Amendments 1.7.zip","file/FreshAnimations_v1.10.4.zip","file/EFA_1.10.4 Hotfix 3.zip","file/Hotbar-Fix.zip"]
+incompatibleResourcePacks:[]
