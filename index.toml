@@ -14,6 +14,50 @@ hash = "6e18e5e772c9e8aa903b1aea9557e3d85bde75ba502028cbf5592f6a3d5a6663"
 preserve = true
 
 [[files]]
+file = "kubejs/assets/kubejs/blockstates/goldene_dattel.json"
+hash = "ba0f137788b7299a4672981f28906a93f942f6317692dcec71b121651ea74a7d"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/goldene_dattel.json"
+hash = "0cdeed45dcb281a8b5217e0807ec242c1a87150b1001365619973cf0b69ac5ec"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/goldene_dattel.json"
+hash = "8d9a7048b5cc647d40b99a275f956897ce03d3c8ae8d4ee37b4dbb4b8e695a5c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/goldene_dattel_dattel.png"
+hash = "9ac33f17e02eb08671aede4d321a85b7b0a950b435c19585986ea996a1285227"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/goldene_dattel_gold.png"
+hash = "63d5aed81ec4ffc37e1a82f529bca27edf3ea8fc6f5aa8bf01558c6b1fb6f276"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/goldene_dattel_kelch.png"
+hash = "bf018404d4f771b4ad25313b684bdac95cbac81c212d4cf1e7bee12aab7d5985"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/goldene_dattel_samt.png"
+hash = "1bf710fb3815fe5b2c47e75d566fe1fcea04ae6463c04b9ebf2e3bae99192f31"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/goldene_dattel_stein.png"
+hash = "5a98fc5f49ee6110db518aa0ecade62d8604c26cedb35e231d685f5e17fdb1a4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/goldene_dattel_tafel.png"
+hash = "c4938b06a0caad9de0fb8c2edce1a54bf3f376a2e0a4095a41df1a3f34b91ce1"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/goldene_dattel.json"
+hash = "38af5f599569844d8369a5eeeff22b93f363a4169eee29e3de5fafecaf22144d"
+
+[[files]]
+file = "kubejs/startup_scripts/goldene_dattel.js"
+hash = "4100ff87bf621e1fc43fd6929590bdcbb54b20a2e987557c6db072ff15d8863c"
+
+[[files]]
 file = "mods/aether-1-21-1-1-5-10-neoforge.pw.toml"
 hash = "624ec64affd7e6c9704debc55821c14b03a7ca83541acea357e875a802e90460"
 metafile = true
@@ -95,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/balm-neoforge-1-21-1-21-0-66.pw.toml"
 hash = "4a8bed462d3e8f5c48564d44c11390e8275555c425f9d7fdf670b150879e8e31"
+metafile = true
+
+[[files]]
+file = "mods/better-advanced-tooltips-2101-1-0-build-5.pw.toml"
+hash = "ea0b2faade5a6705fc0a353704cffa18e20c4e995bfdfc9b66148711e95bc4a9"
 metafile = true
 
 [[files]]
@@ -298,6 +347,11 @@ hash = "5fb020eca820d2055a7170cb646f3ac12b8d00143dd6dfaff4a4c2746a69f8aa"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-neoforge-2101-7-2-build-377.pw.toml"
+hash = "5c6ae6b771696c87d8110a9ab9a58639874947db205cacf17d4427359d3963ff"
+metafile = true
+
+[[files]]
 file = "mods/lithium-neoforge-0-15-4-mc1-21-1.pw.toml"
 hash = "2ec8056789d8c37dbc7a80afc25656ff3c577ee3719f663405de85979233dae1"
 metafile = true
@@ -410,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/resourcefullib-neoforge-1-21-3-0-12.pw.toml"
 hash = "29c20512698f685b957bc187e72b254a4da1b43add5b0b88d2c2a926fa8d5b25"
+metafile = true
+
+[[files]]
+file = "mods/rhino-2101-2-7-build-85.pw.toml"
+hash = "032563ed3a46edc74d9a045a47c5782594e4cdb4ab59769abafe76e0aec741b4"
 metafile = true
 
 [[files]]

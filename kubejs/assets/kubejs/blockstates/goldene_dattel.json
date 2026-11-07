@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "kubejs:block/goldene_dattel"
+  },
+  "facing=east": {
+   "model": "kubejs:block/goldene_dattel",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "kubejs:block/goldene_dattel",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "kubejs:block/goldene_dattel",
+   "y": 270
+  }
+ }
+}
