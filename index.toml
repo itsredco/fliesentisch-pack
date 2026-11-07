@@ -14,16 +14,84 @@ hash = "6e18e5e772c9e8aa903b1aea9557e3d85bde75ba502028cbf5592f6a3d5a6663"
 preserve = true
 
 [[files]]
+file = "kubejs/assets/kubejs/blockstates/fliesentisch.json"
+hash = "e1b182c6a132bc578bbb9ea8f4da12c00858aa4d467e69d2d0a59c263cc477d9"
+
+[[files]]
 file = "kubejs/assets/kubejs/blockstates/goldene_dattel.json"
 hash = "ba0f137788b7299a4672981f28906a93f942f6317692dcec71b121651ea74a7d"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_bein_no.json"
+hash = "43bed5a90a6fa309c9f63c1b54c3d625f560cdf8f939b18d6fc7852decd083c5"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_bein_nw.json"
+hash = "68657ca7225bb1dc616175e6ba64e5116c5e589fd18291ff285f2fed117d24d1"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_bein_so.json"
+hash = "59d3f3906b2a8b7570fcfbb60a821296e806256929ce2897663fe06beb471a78"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_bein_sw.json"
+hash = "0718d580a4185609c0ac90511fc6b68193eee72505db066bb117d8ea4c1552d3"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_ecke_no.json"
+hash = "c6940269477b368edc3d324cc42691acee40c92fe0a98532984ff07125eb4b2c"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_ecke_nw.json"
+hash = "578128c5f29f4835042a482895dfa5f5d6ac455d649614b648c09cfbf9fc977f"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_ecke_so.json"
+hash = "5c406dd22dbf8f0117caeb707f14a8fb555bc65da54c7a8f25c23c9030bec724"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_ecke_sw.json"
+hash = "10ef933552712be3a1a990e7b0dad1116ebb012bca8a5b77272459156470cbcd"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_einzeln.json"
+hash = "6dbd4f091b6513548c152f109e40159a0e8f20965fc150c4651e9037520054e8"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_platte.json"
+hash = "2f6335ae1c392529cb8c55ab0e10e7616379b3127bd808a6065c1472e7d9655d"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_rand_n.json"
+hash = "150d1fe987c2041dc5eef33e83545880c6bf3c6824cb1f2e9060b4f2bda358b5"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_rand_o.json"
+hash = "234a5ca14a71e8cca71639e3d2632d93233952cfc9b57485be8283037e73486a"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_rand_s.json"
+hash = "ddc813fed7837aa2db5a114630babd0a305ce4e4b638431f47736aff7f483cfd"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/fliesentisch_rand_w.json"
+hash = "c607887a3c6c9a7ca4d3b15b5b597f80efe3057b9eee51729dc9ba3a658d6be6"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/goldene_dattel.json"
 hash = "0cdeed45dcb281a8b5217e0807ec242c1a87150b1001365619973cf0b69ac5ec"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/item/fliesentisch.json"
+hash = "4f6946bb1f58abc3ea48c82f3378083753e7aaeb0e91a8d26779a8507a1731c3"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/item/goldene_dattel.json"
 hash = "8d9a7048b5cc647d40b99a275f956897ce03d3c8ae8d4ee37b4dbb4b8e695a5c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/fliesentisch_fliese.png"
+hash = "ab5b54503c5e7f039c597aa1e1dfc82eafd5a6d50a7f1083aae204c85777956f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/goldene_dattel_dattel.png"
@@ -50,12 +118,20 @@ file = "kubejs/assets/kubejs/textures/block/goldene_dattel_tafel.png"
 hash = "c4938b06a0caad9de0fb8c2edce1a54bf3f376a2e0a4095a41df1a3f34b91ce1"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/fliesentisch.json"
+hash = "cb1d87b546d4a39d2891de1afdf4faf80ee92b72c34a9d2ceb369932cb740a74"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/goldene_dattel.json"
 hash = "38af5f599569844d8369a5eeeff22b93f363a4169eee29e3de5fafecaf22144d"
 
 [[files]]
+file = "kubejs/server_scripts/fliesentisch.js"
+hash = "f5a488ec868c4b7e89c6073b24dd6288bd9d3a4c9654e441ce621d4243ac6550"
+
+[[files]]
 file = "kubejs/startup_scripts/goldene_dattel.js"
-hash = "4100ff87bf621e1fc43fd6929590bdcbb54b20a2e987557c6db072ff15d8863c"
+hash = "ba9f30c6f91615d8be489c1aa0df85a9dac67fcfe4914534f86d558bdb9aedfb"
 
 [[files]]
 file = "mods/aether-1-21-1-1-5-10-neoforge.pw.toml"

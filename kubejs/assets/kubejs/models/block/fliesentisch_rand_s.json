@@ -1,0 +1,60 @@
+{
+ "textures": {
+  "fliese": "kubejs:block/fliesentisch_fliese",
+  "holz": "minecraft:block/dark_oak_planks",
+  "bein": "minecraft:block/stripped_dark_oak_log",
+  "particle": "minecraft:block/dark_oak_planks"
+ },
+ "elements": [
+  {
+   "from": [
+    1.5,
+    10.5,
+    14.5
+   ],
+   "to": [
+    14.5,
+    16.5,
+    16
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      1.5,
+      0,
+      14.5,
+      5.5
+     ],
+     "texture": "#holz"
+    },
+    "south": {
+     "uv": [
+      1.5,
+      0,
+      14.5,
+      5.5
+     ],
+     "texture": "#holz"
+    },
+    "up": {
+     "uv": [
+      1.5,
+      14.5,
+      14.5,
+      16
+     ],
+     "texture": "#holz"
+    },
+    "down": {
+     "uv": [
+      1.5,
+      0,
+      14.5,
+      1.5
+     ],
+     "texture": "#holz"
+    }
+   }
+  }
+ ]
+}

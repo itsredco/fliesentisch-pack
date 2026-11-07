@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "FFF",
+    "H H",
+    "H H"
+  ],
+  "key": {
+    "F": { "tag": "c:glazed_terracottas" },
+    "H": { "tag": "minecraft:planks" }
+  },
+  "result": { "id": "kubejs:fliesentisch", "count": 2 }
+}

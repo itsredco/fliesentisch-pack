@@ -1,0 +1,137 @@
+{
+ "multipart": [
+  {
+   "apply": {
+    "model": "kubejs:block/fliesentisch_platte"
+   }
+  },
+  {
+   "when": {
+    "north": "false"
+   },
+   "apply": {
+    "model": "kubejs:block/fliesentisch_rand_n"
+   }
+  },
+  {
+   "when": {
+    "OR": [
+     {
+      "north": "false"
+     },
+     {
+      "west": "false"
+     }
+    ]
+   },
+   "apply": {
+    "model": "kubejs:block/fliesentisch_ecke_nw"
+   }
+  },
+  {
+   "when": {
+    "north": "false",
+    "west": "false"
+   },
+   "apply": {
+    "model": "kubejs:block/fliesentisch_bein_nw"
+   }
+  },
+  {
+   "when": {
+    "east": "false"
+   },
+   "apply": {
+    "model": "kubejs:block/fliesentisch_rand_o"
+   }
+  },
+  {
+   "when": {
+    "OR": [
+     {
+      "north": "false"
+     },
+     {
+      "east": "false"
+     }
+    ]
+   },
+   "apply": {
+    "model": "kubejs:block/fliesentisch_ecke_no"
+   }
+  },
+  {
+   "when": {
+    "north": "false",
+    "east": "false"
+   },
+   "apply": {
+    "model": "kubejs:block/fliesentisch_bein_no"
+   }
+  },
+  {
+   "when": {
+    "south": "false"
+   },
+   "apply": {
+    "model": "kubejs:block/fliesentisch_rand_s"
+   }
+  },
+  {
+   "when": {
+    "OR": [
+     {
+      "south": "false"
+     },
+     {
+      "east": "false"
+     }
+    ]
+   },
+   "apply": {
+    "model": "kubejs:block/fliesentisch_ecke_so"
+   }
+  },
+  {
+   "when": {
+    "south": "false",
+    "east": "false"
+   },
+   "apply": {
+    "model": "kubejs:block/fliesentisch_bein_so"
+   }
+  },
+  {
+   "when": {
+    "west": "false"
+   },
+   "apply": {
+    "model": "kubejs:block/fliesentisch_rand_w"
+   }
+  },
+  {
+   "when": {
+    "OR": [
+     {
+      "south": "false"
+     },
+     {
+      "west": "false"
+     }
+    ]
+   },
+   "apply": {
+    "model": "kubejs:block/fliesentisch_ecke_sw"
+   }
+  },
+  {
+   "when": {
+    "south": "false",
+    "west": "false"
+   },
+   "apply": {
+    "model": "kubejs:block/fliesentisch_bein_sw"
+   }
+  }
+ ]
+}
