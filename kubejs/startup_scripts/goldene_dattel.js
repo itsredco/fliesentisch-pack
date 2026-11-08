@@ -47,4 +47,29 @@ StartupEvents.registry('block', event => {
       }
     })
     .box(0, 10.5, 0, 16, 16, 16, true)
+
+  // Verzaubertes Strickzeug (seit v1.0.11, für Alinas Fuchsbau): Weidenkorb mit Wollknäueln, darüber stricken die
+  // Nadeln von allein (animierte Textur, Modell aus tools/strickzeug.mjs). Kollision nur der Korb.
+  event.create('strickzeug', 'cardinal')
+    .displayName('Verzaubertes Strickzeug')
+    .soundType('wool')
+    .hardness(0.8)
+    .resistance(0.8)
+    .notSolid()
+    .renderType('cutout')
+    .box(2.5, 0, 4, 13.5, 5, 12, true)
+
+  // Ohrensessel mit Strickzeug (seit v1.0.11): geflickter Fuchsbau-Sessel, über dem Sitz stricken die Nadeln
+  // (Modell aus tools/ohrensessel.mjs, Nadel- und Wolltexturen vom Strickzeug). Reine Deko, man kann nicht sitzen.
+  // Kollision: Sitz plus Lehne, gut 1,5 Blöcke hoch.
+  event.create('ohrensessel', 'cardinal')
+    .displayName('Ohrensessel mit Strickzeug')
+    .soundType('wool')
+    .hardness(1.5)
+    .resistance(1.5)
+    .tagBlock('minecraft:mineable/axe')
+    .notSolid()
+    .renderType('cutout')
+    .box(1.5, 0, 1.5, 14.5, 8, 14.5, true)
+    .box(2, 8, 12, 14, 24, 14.5, true)
 })

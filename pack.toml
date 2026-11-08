@@ -1,12 +1,12 @@
 name = "FliesentischMC"
 author = "Meister Klaudius"
-version = "1.0.10"
+version = "1.0.11"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ee2db6346848d67ac12b78318e2b420161a15351a1b3637631131b1ef8624c59"
+hash = "fbc7b8bc3670fc72518df926214b05087ce6dd004e1693c87a54f56a1976cc86"
 
 [versions]
 minecraft = "1.21.1"

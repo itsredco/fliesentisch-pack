@@ -22,6 +22,14 @@ file = "kubejs/assets/kubejs/blockstates/goldene_dattel.json"
 hash = "ba0f137788b7299a4672981f28906a93f942f6317692dcec71b121651ea74a7d"
 
 [[files]]
+file = "kubejs/assets/kubejs/blockstates/ohrensessel.json"
+hash = "0b1a3815f14b7f3f0b9946d1f9eeebbff6c8964d2a893a2f5af23e057e5d907b"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/strickzeug.json"
+hash = "ec6188a3e5fb4a64764307a7111f9f170bbe038d9dddba21e88b432b21741377"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/block/fliesentisch_bein_no.json"
 hash = "43bed5a90a6fa309c9f63c1b54c3d625f560cdf8f939b18d6fc7852decd083c5"
 
@@ -82,12 +90,28 @@ file = "kubejs/assets/kubejs/models/block/goldene_dattel.json"
 hash = "0cdeed45dcb281a8b5217e0807ec242c1a87150b1001365619973cf0b69ac5ec"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/block/ohrensessel.json"
+hash = "9efd2c70555a84a102202863cdbb5748e5c3536751c14e96890c7c0cd0572411"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/strickzeug.json"
+hash = "a7a29792f7da398d291c9b4b843b4894972258f0f32dc2f4bc8ce528ff7fd123"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/item/fliesentisch.json"
 hash = "4f6946bb1f58abc3ea48c82f3378083753e7aaeb0e91a8d26779a8507a1731c3"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/goldene_dattel.json"
 hash = "8d9a7048b5cc647d40b99a275f956897ce03d3c8ae8d4ee37b4dbb4b8e695a5c"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/ohrensessel.json"
+hash = "2270dabeaae1f5135ac82a23f97fb7f50b14a9becd806b1618c4b7eb57390058"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/strickzeug.json"
+hash = "e7e66a26f407d4f01d1c494a2c6c8ccd3318849a1584597669c2d59b5ac6f90e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/fliesentisch_fliese.png"
@@ -118,6 +142,50 @@ file = "kubejs/assets/kubejs/textures/block/goldene_dattel_tafel.png"
 hash = "c4938b06a0caad9de0fb8c2edce1a54bf3f376a2e0a4095a41df1a3f34b91ce1"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/ohrensessel_chintz.png"
+hash = "0a9e7f2e1d47816c5d03068bad28047436ac4625fd98a5b03dd743feb4e49578"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/ohrensessel_flicken.png"
+hash = "1890054e95ac0751df5be045e1f3463e67387d3833fd3be861d38c223b1f055f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/ohrensessel_holz.png"
+hash = "03a2243b23e4f5596b55924e5cfbefb051a017a48a6d589c30dca01d14c48e14"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/strickzeug_creme.png"
+hash = "3b7e84ae657d4520237937fb3b69255496bdb01cdd1f594af41ed30aa25cb2f2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/strickzeug_innen.png"
+hash = "5e2b140ba61d378b0931bf5783cc72b5ff678a23abefdb5b705fde4ec9590196"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/strickzeug_nadeln.png"
+hash = "63bf44200443430bbceeee3d4004369681df2a76129fd15f5b74f6cd8ebc4029"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/strickzeug_nadeln.png.mcmeta"
+hash = "1e188fdf95ee1a7470fb708368e28020831c014aed6b6c250bd96e8f72662e82"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/strickzeug_rand.png"
+hash = "9bbf5088eab5afce1bdce19f840cd516664c29b4107671b30f79e7ad97d21a6c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/strickzeug_rot.png"
+hash = "580fca2356c5e634ab9b4c700e51afd16d368c1a24432181ccbb93839ce696ff"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/strickzeug_senf.png"
+hash = "c92db23acb1abe2f0a47d4717fab9a301f3715d0b645afc6dc48dcf11fc2c43d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/strickzeug_weide.png"
+hash = "773844489fcf8561433265f5e114cc38da94a5f6b798577acc07f45ba98cd2cc"
+
+[[files]]
 file = "kubejs/data/kubejs/recipe/fliesentisch.json"
 hash = "cb1d87b546d4a39d2891de1afdf4faf80ee92b72c34a9d2ceb369932cb740a74"
 
@@ -126,12 +194,20 @@ file = "kubejs/data/kubejs/recipe/goldene_dattel.json"
 hash = "38af5f599569844d8369a5eeeff22b93f363a4169eee29e3de5fafecaf22144d"
 
 [[files]]
+file = "kubejs/data/kubejs/recipe/ohrensessel.json"
+hash = "72ba75f716ec3230b71a631aff44a06b98cba9dfd1ac3ea8df006687e9219779"
+
+[[files]]
+file = "kubejs/data/kubejs/recipe/strickzeug.json"
+hash = "c01eaf7017320ddb7d3b1c61a6ae570342134fcd5eb40e8f7f59b7ccd8fdfa75"
+
+[[files]]
 file = "kubejs/server_scripts/fliesentisch.js"
 hash = "f5a488ec868c4b7e89c6073b24dd6288bd9d3a4c9654e441ce621d4243ac6550"
 
 [[files]]
 file = "kubejs/startup_scripts/goldene_dattel.js"
-hash = "ba9f30c6f91615d8be489c1aa0df85a9dac67fcfe4914534f86d558bdb9aedfb"
+hash = "850264a400ec297d52a2d6bcdc41eb1d0b9485c987f500765abc861d89660bed"
 
 [[files]]
 file = "mods/aether-1-21-1-1-5-10-neoforge.pw.toml"

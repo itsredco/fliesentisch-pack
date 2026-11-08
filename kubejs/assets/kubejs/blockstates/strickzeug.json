@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "kubejs:block/strickzeug"
+  },
+  "facing=east": {
+   "model": "kubejs:block/strickzeug",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "kubejs:block/strickzeug",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "kubejs:block/strickzeug",
+   "y": 270
+  }
+ }
+}

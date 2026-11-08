@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "S S",
+    "WLW",
+    "RRR"
+  ],
+  "key": {
+    "S": { "item": "minecraft:stick" },
+    "W": { "tag": "minecraft:wool" },
+    "L": { "item": "minecraft:lapis_lazuli" },
+    "R": { "item": "minecraft:sugar_cane" }
+  },
+  "result": { "id": "kubejs:strickzeug", "count": 1 }
+}

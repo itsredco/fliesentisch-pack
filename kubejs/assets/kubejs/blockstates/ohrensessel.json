@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "kubejs:block/ohrensessel"
+  },
+  "facing=east": {
+   "model": "kubejs:block/ohrensessel",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "kubejs:block/ohrensessel",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "kubejs:block/ohrensessel",
+   "y": 270
+  }
+ }
+}
